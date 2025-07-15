@@ -30,3 +30,14 @@ The following methods were applied and compared:
 - Tree-based models: decision trees, bagging, random forest, boosting (GBM), XGBoost
 - Bayesian Additive Regression Trees (BART)
 - Cross-validation and bootstrap methods for model evaluation
+
+## Project Files
+
+- 📓 [Jupyter Notebook – Partial analysis & results (EN)](checkpoint_en.ipynb)
+- 📄 [R Script – Full code of the project (PL)](fullcode_pl.r)
+- 📘 [Final Report – PDF (EN)](Statistical_Learning_report.pdf)
+
+## Authors
+
+- Baltazar Augustynek
+- Mateusz Mglej
